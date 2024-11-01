@@ -48,6 +48,10 @@ Atualmente, estou me especializando em Python, com foco em áreas-chave:
 
  💻 Explorando novas tecnologias para melhorar continuamente minhas habilidades e construir soluções eficientes.
 
+ ### CONECTE-SE COMIGO:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/danilomatosoficial/)
+[![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dann17dev@gmail.com)
+
 ### DESTAQUES DOS MEUS REPOSITÓRIOS:
 [![Sistema de Estoque](https://github-readme-stats.vercel.app/api/pin/?username=dann17dev&repo=sistema_estoque&theme=dark)](https://github.com/dann17dev/sistema_estoque)
 [![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=dann17dev&repo=task_manager&theme=dark)](https://github.com/dann17dev/task_manager)
