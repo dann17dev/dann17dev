@@ -11,25 +11,25 @@
 
 
 ### PRINCIPAIS HABILIDADES:
-![PYTHON](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=00bfbf)&nbsp;
-![DJANGO](https://img.shields.io/badge/-DJANGO-0D1117?style=for-the-badge&logo=django&labelColor=00bfbf)&nbsp;
-![FLASK](https://img.shields.io/badge/-FLASK-0D1117?style=for-the-badge&logo=flask&labelColor=00bfbf)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=00bfbf)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=00bfbf)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&labelColor=00bfbf)&nbsp;
+![PYTHON](https://img.shields.io/badge/-PYTHON-00bfbf?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=00bfbf)&nbsp;
+![DJANGO](https://img.shields.io/badge/-DJANGO-00bfbf?style=for-the-badge&logo=django&labelColor=00bfbf)&nbsp;
+![FLASK](https://img.shields.io/badge/-FLASK-00bfbf?style=for-the-badge&logo=flask&labelColor=00bfbf)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-00bfbf?style=for-the-badge&logo=html5&labelColor=00bfbf)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-00bfbf?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=00bfbf)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-00bfbf?style=for-the-badge&logo=javascript&labelColor=00bfbf)&nbsp;
 
 ### FERRAMENTAS:
-![VISUAL STUDIO CODE](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00bfbf&labelColor=0D1117)&nbsp;
-![JUPYTER NOTEBOOK](https://img.shields.io/badge/-JUPYTER%20NOTEBOOK-0D1117?style=for-the-badge&logo=jupyter&labelColor=00bfbf)&nbsp;
-![GIT](https://img.shields.io/badge/-GIT-0D1117?style=for-the-badge&logo=git&labelColor=00bfbf)&nbsp;
-![GITHUB](https://img.shields.io/badge/-GITHUB-0D1117?style=for-the-badge&logo=github&labelColor=00bfbf)&nbsp;
-![SQLITE](https://img.shields.io/badge/-SQLITE-0D1117?style=for-the-badge&logo=sqlite&labelColor=00bfbf)&nbsp;
-![MYSQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=mysql&labelColor=00bfbf)&nbsp;
-![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=00bfbf)&nbsp;
+![VISUAL STUDIO CODE](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-00bfbf?style=for-the-badge&logo=visual-studio-code&logoColor=00bfbf&labelColor=00bfbf)&nbsp;
+![JUPYTER NOTEBOOK](https://img.shields.io/badge/-JUPYTER%20NOTEBOOK-00bfbf?style=for-the-badge&logo=jupyter&labelColor=00bfbf)&nbsp;
+![GIT](https://img.shields.io/badge/-GIT-00bfbf?style=for-the-badge&logo=git&labelColor=00bfbf)&nbsp;
+![GITHUB](https://img.shields.io/badge/-GITHUB-00bfbf?style=for-the-badge&logo=github&labelColor=00bfbf)&nbsp;
+![SQLITE](https://img.shields.io/badge/-SQLITE-00bfbf?style=for-the-badge&logo=sqlite&labelColor=00bfbf)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-00bfbf?style=for-the-badge&logo=mysql&labelColor=00bfbf)&nbsp;
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-00bfbf?style=for-the-badge&logo=postgresql&labelColor=00bfbf)&nbsp;
 
 ### OUTROS CONHECIMENTOS:
-![ADVPL](https://img.shields.io/badge/-ADVPL-0D1117?style=for-the-badge&logo=advpl&labelColor=00bfbf)&nbsp;
-![TOTVS](https://img.shields.io/badge/-TOTVS-0D1117?style=for-the-badge&logo=totvs&labelColor=00bfbf)&nbsp;
+![ADVPL](https://img.shields.io/badge/-ADVPL-00bfbf?style=for-the-badge&logo=advpl&labelColor=00bfbf)&nbsp;
+![TOTVS](https://img.shields.io/badge/-TOTVS-00bfbf?style=for-the-badge&logo=totvs&labelColor=00bfbf)&nbsp;
 
 ### SOBRE MIM:
 Atualmente, estou me especializando em Python, com foco em áreas-chave:
