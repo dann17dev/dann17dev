@@ -33,6 +33,20 @@ Tenho domínio sólido em **ADVPL**, experiência consistente com **MVC**, e est
 
 ---
 
+## Backend e APIs — portfólio em construção
+
+Estou estruturando projetos próprios em Java e APIs, aplicando minha experiência com regras de negócio e integrações ERP.
+
+| Software planejado | Foco | Status |
+| --- | --- | --- |
+| Finance Core | Contas a pagar/receber, baixas e fluxo de caixa | Planejamento |
+| ERP Integration Hub | Integração de pedidos, rastreabilidade e reprocessamento | Planejamento |
+| Order & Stock | Pedidos, reservas e estoque | Próximo ciclo |
+
+[Acompanhe o roadmap de 16 semanas e os critérios de entrega](ROADMAP_BACKEND.md).
+
+---
+
 ## 📦 Projetos em Destaque
 
 | Projeto | Descrição |
