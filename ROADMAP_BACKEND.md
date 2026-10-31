@@ -209,3 +209,72 @@ Evidência: link do PR, resultado dos testes e exemplo de requisição/resposta.
 - [ ] ERP Integration Hub MVP concluído.
 
 Este planejamento inicia a organização do portfólio; não representa softwares já entregues.
+
+## Matriz de competências e evidências
+
+Objetivo: demonstrar execução e compreensão. Cada competência deve ter código ou artefato verificável, teste quando aplicável e explicação autoral. A imagem de referência orienta temas; não comprova demanda de mercado nem requisitos de uma vaga específica.
+
+| Competência | Aplicação no portfólio | Evidência exigida | Desafio de compreensão |
+| --- | --- | --- | --- |
+| Java e orientação a objetos | Domínio do Finance Core | Classes, testes e decisões de modelagem | Alterar regra de baixa e explicar os impactos |
+| Spring Boot e APIs REST | Fluxos de títulos e pagamentos | Contrato OpenAPI, exemplos HTTP e testes de integração | Diagnosticar erro e explicar códigos HTTP |
+| SQL | Persistência, caixa e consultas por período | Migrações, consultas e plano de execução antes/depois de índice | Justificar índice com volume e medições registrados |
+| Angular e TypeScript | Interface financeira | Tela consumindo API com carregamento, erro e validação | Adicionar filtro sem duplicar regra financeira no cliente |
+| Cloud | Ambiente de demonstração do Finance Core | Diagrama, passos de implantação, logs, health check e procedimento de rollback | Explicar configuração, persistência e recuperação |
+| Python | Importador de títulos fictícios CSV para a API | Script com modo de validação, relatório de rejeições e testes | Reexecutar importação sem duplicar títulos |
+| Git e CI/CD | Entrega dos projetos | PRs pequenos, revisão do diff e pipeline de testes | Investigar uma falha de pipeline e corrigi-la |
+| Práticas ágeis | Organização das entregas | Backlog priorizado, critérios de aceite e revisão semanal | Explicar uma redução de escopo e o motivo |
+| Protheus e ERP | Adaptador do Integration Hub | Mapeamento, exemplos próprios e testes de contrato com simulador | Explicar diferenças entre simulação e ambiente real |
+| Segurança | Permissões e validações da API | Testes de acesso negado, segredos fora do código e erros sem dados sensíveis | Demonstrar tentativa de operação sem permissão |
+| Inglês técnico | Documentação e apresentação | Resumo escrito e demonstração oral curta | Explicar uma decisão e responder perguntas sem roteiro |
+| Espanhol técnico | Apresentação do projeto | Roteiro próprio, gravação curta e simulação de entrevista | Explicar o fluxo e pedir esclarecimento sobre um requisito |
+
+Java será usado no backend; Angular com TypeScript será usado no frontend. Documentação traduzida ou preparada com IA não comprova fluência. Um projeto individual demonstra organização de trabalho, mas não comprova experiência real em equipe Scrum.
+
+### Níveis de evidência
+
+1. **Planejado:** tarefa definida, sem entrega.
+2. **Implementado:** código existe, com limitações declaradas.
+3. **Verificado:** testes e execução reproduzível registrados.
+4. **Demonstrável:** outro desenvolvedor consegue executar e observar o fluxo.
+5. **Explicado e adaptado:** Danilo consegue explicar as decisões, modificar a regra e diagnosticar uma falha.
+
+Registrar o nível e links reais por competência. Só declarar domínio compatível com a evidência disponível. A matriz começa em planejado; não altera automaticamente o status das habilidades já existentes.
+
+### Organização das evidências por software
+
+Criar progressivamente:
+- `docs/evidence.md`: competência, cenário, resultado, commit/PR e limitações.
+- `docs/decisions/`: decisões técnicas curtas, contexto e alternativas.
+- `docs/demo.md`: roteiro de execução com entradas e resultados esperados.
+- `examples/`: requisições e dados fictícios.
+- Testes próximos do código, conforme a estrutura da ferramenta utilizada.
+
+Modelo de registro:
+
+| Competência | Cenário | Evidência | Resultado | Limitações | Nível |
+| --- | --- | --- | --- | --- | --- |
+| Transações e idempotência | Repetir a baixa de 400 em título de 1000 | Preencher com teste e commit reais | Esperado: saldo permanece 600 | Ainda não executado | Planejado |
+
+### Ajuste de execução dentro das 16 semanas
+
+- Semanas 3–4: guardar evidências SQL e medições de consultas.
+- Semana 9: CI e Docker; preparar implantação cloud.
+- Semana 10: apresentar interface Angular e API funcionando juntas.
+- Semana 15: priorizar apresentação, evidências e um deploy de demonstração se houver ambiente e orçamento definidos.
+- Python: pequena extensão após estabilizar a API; se faltar tempo, mover para o próximo ciclo.
+- Idiomas: duas sessões semanais de 15 minutos dentro do tempo de estudo, usando a própria demonstração como tema.
+- Cloud: escolher um provedor antes de implementar; não contratar recursos pagos como parte deste documento.
+- Manter Order & Stock no próximo ciclo. As novas evidências não ampliam automaticamente o compromisso das 160 horas.
+
+### Prova prática ao concluir cada módulo
+
+- [ ] Executar o fluxo com dados fictícios.
+- [ ] Mostrar um caso de falha e o tratamento esperado.
+- [ ] Executar os testes relevantes.
+- [ ] Explicar decisões sem ler texto pronto.
+- [ ] Fazer uma pequena mudança de requisito e ajustar os testes.
+- [ ] Registrar o que foi feito com assistência e o que já consegue executar sozinho.
+- [ ] Publicar evidência ligada ao commit correspondente.
+
+A parte de visto e documentação da imagem fica fora da avaliação técnica. Exigências migratórias precisam de verificação própria por país e modalidade; este roadmap não as valida.
